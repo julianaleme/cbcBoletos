@@ -1,0 +1,45 @@
+{
+  "_from": "cbcboletos",
+  "_id": "cbcboletos@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-yAceFlDxyFUXcR6HYrRTfYuTJRhpnSxG7VzUSumX06/uATcVQjAaSj9MesQRNLd1kqEynjt14YfUGMVormprNA==",
+  "_location": "/cbcboletos",
+  "_phantomChildren": {
+    "fontkit": "1.8.0",
+    "linebreak": "0.3.0",
+    "png-js": "0.1.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "bundleDependencies": false,
+  "dependencies": {
+    "pdfkit": "0.8.3"
+  },
+  "deprecated": false,
+  "description": "Gerador de boletos para vários bancos",
+  "devDependencies": {
+    "nodeunit": "0.11.2"
+  },
+  "keywords": [
+    "gerador",
+    "boleto",
+    "boletos",
+    "bancario",
+    "banco",
+    "cecred",
+    "sicredi",
+    "ailos",
+    "viacredi",
+    "bradesco",
+    "brasil",
+    "itau",
+    "caixa",
+    "economica",
+    "federal",
+    "santander",
+    "sicoob"
+  ],
+  "version": "1.0.0"
+}
